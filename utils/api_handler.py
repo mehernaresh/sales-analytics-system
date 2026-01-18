@@ -26,7 +26,7 @@ def fetch_all_products():
         ]
 
     Requirements:
-    - Fetch all available products (use limit=120 to map with product ID)
+    - Fetch all available products (use limit=120 to be able to map with product ID)
     - Handle connection errors with try-except
     - Return empty list if API fails
     - Print status message (success/failure)
