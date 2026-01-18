@@ -1,0 +1,7 @@
+# Core dependencies
+requests>=2.31.0      # For API calls (DummyJSON)
+pandas>=2.2.0         # For data handling and analysis convenience
+matplotlib>=3.8.2     # For visualizations (Part 4)
+seaborn>=0.13.2       # Optional, for nicer charts
+# Utility dependencies
+python-dateutil>=2.8.2  # For robust date parsing
