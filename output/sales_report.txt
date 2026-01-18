@@ -1,61 +1,79 @@
 ===========================================
           SALES ANALYTICS REPORT
-        Generated: 2026-01-18 16:29:43
-        Records Processed: 7
+        Generated: 2026-01-18 16:42:10
+        Records Processed: 24
 ===========================================
 
 OVERALL SUMMARY
 --------------------------------------------
-Total Revenue:        ₹133,239.00
-Total Transactions:   7
-Average Order Value:  ₹19,034.14
-Date Range:           2024-12-03 to 2024-12-30
+Total Revenue:        ₹529,245.00
+Total Transactions:   24
+Average Order Value:  ₹22,051.88
+Date Range:           2024-12-02 to 2024-12-30
 
 REGION-WISE PERFORMANCE
 --------------------------------------------
 Region    Sales         % of Total  Transactions
-East     ₹133,239   100.0%      7
+North    ₹155,145   29.31%      7
+West     ₹138,568   26.18%      7
+East     ₹133,239   25.18%      7
+South    ₹102,293   19.33%      3
 
 TOP 5 PRODUCTS
 --------------------------------------------
 Rank  Product Name       Quantity   Revenue
-1     Laptop Charger     14        ₹23,808
-2     Webcam             12        ₹37,665
-3     Laptop Charger 65W 7         ₹19,922
-4     External Hard Drive 6         ₹25,992
-5     Headphones         4         ₹25,852
+1     Webcam             29        ₹112,183
+2     Laptop Charger     24        ₹46,322
+3     Headphones         23        ₹102,422
+4     Keyboard           16        ₹26,392
+5     Wireless Mouse     15        ₹22,383
 
 TOP 5 CUSTOMERS
 --------------------------------------------
 Rank  Customer ID   Total Spent   Orders
-1     C004         ₹38,164   2
-2     C022         ₹37,587   2
-3     C012         ₹25,992   1
-4     C019         ₹19,922   1
-5     C001         ₹11,574   1
+1     C009         ₹56,211   3
+2     C019         ₹52,056   2
+3     C020         ₹51,695   1
+4     C028         ₹48,359   2
+5     C007         ₹40,446   1
 
 DAILY SALES TREND
 --------------------------------------------
 Date         Revenue       Transactions   Unique Customers
-2024-12-03   ₹19,922   1            1
-2024-12-07   ₹37,348   2            2
+2024-12-02   ₹10,152   1            1
+2024-12-03   ₹46,463   2            2
+2024-12-06   ₹34,072   1            1
+2024-12-07   ₹91,801   5            5
+2024-12-09   ₹14,584   1            1
 2024-12-11   ₹12,312   1            1
-2024-12-14   ₹11,574   1            1
+2024-12-13   ₹43,828   2            2
+2024-12-14   ₹45,349   2            2
+2024-12-18   ₹10,820   1            1
 2024-12-21   ₹25,992   1            1
+2024-12-22   ₹76,863   3            3
+2024-12-25   ₹16,254   1            1
+2024-12-26   ₹34,218   1            1
+2024-12-27   ₹40,446   1            1
 2024-12-30   ₹26,091   1            1
 
 PRODUCT PERFORMANCE ANALYSIS
 --------------------------------------------
-Best Selling Day: 2024-12-07 (Revenue ₹37,348, Transactions 2)
+Best Selling Day: 2024-12-07 (Revenue ₹91,801, Transactions 5)
 Low Performing Products:
-  Headphones      Qty: 4   Revenue: ₹25,852
-  External Hard Drive Qty: 6   Revenue: ₹25,992
+  Monitor LED     Qty: 2   Revenue: ₹32,134
+  Monitor         Qty: 5   Revenue: ₹51,695
+  Keyboard Mechanical Qty: 5   Revenue: ₹13,360
+  Webcam HD       Qty: 6   Revenue: ₹17,862
   Laptop Charger 65W Qty: 7   Revenue: ₹19,922
+  External Hard Drive 1TB Qty: 7   Revenue: ₹24,360
 Average Transaction Value per Region:
+  North    ₹22,163.57
+  West     ₹19,795.43
   East     ₹19,034.14
+  South    ₹34,097.67
 
 API ENRICHMENT SUMMARY
 --------------------------------------------
-Total Products Enriched: 7
+Total Products Enriched: 24
 Success Rate: 100.0%
 All products enriched successfully.

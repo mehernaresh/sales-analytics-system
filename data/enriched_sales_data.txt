@@ -1,8 +1,25 @@
 TransactionID|Date|ProductID|ProductName|Quantity|UnitPrice|CustomerID|Region|API_Category|API_Brand|API_Rating|API_Match
 T063|2024-12-07|P110|Laptop Charger|6|1916.0|C022|East|mobile-accessories|GadgetMaster|3.55|True
+T004|2024-12-07|P109|Wireless Mouse|9|1359.0|C008|West|mobile-accessories|TechGear|4.43|True
+T068|2024-12-02|P109|Wireless Mouse|6|1692.0|C018|South|mobile-accessories|TechGear|4.43|True
+T066|2024-12-06|P105|Webcam|8|4259.0|C023|West|mobile-accessories|Apple|3.62|True
+T045|2024-12-26|P108|External Hard Drive|9|3802.0|C002|North|mobile-accessories|Apple|3.62|True
 T015|2024-12-30|P105|Webcam|9|2899.0|C022|East|mobile-accessories|Apple|3.62|True
+T055|2024-12-07|P105|Webcam HD|6|2977.0|C009|West|mobile-accessories|Apple|3.62|True
+T032|2024-12-22|P103|Keyboard|8|1476.0|C009|West|mobile-accessories|Apple|4.62|True
 T029|2024-12-11|P110|Laptop Charger|8|1539.0|C004|East|mobile-accessories|GadgetMaster|3.55|True
 T070|2024-12-07|P106|Headphones|4|6463.0|C004|East|mobile-accessories|Apple|2.74|True
+T028|2024-12-25|P106|Headphones|3|5418.0|C025|North|mobile-accessories|Apple|2.74|True
 T054|2024-12-03|P110|Laptop Charger 65W|7|2846.0|C019|East|mobile-accessories|GadgetMaster|3.55|True
+T036|2024-12-18|P110|Laptop Charger|4|2705.0|C008|North|mobile-accessories|GadgetMaster|3.55|True
+T020|2024-12-13|P110|Laptop Charger|6|1949.0|C005|West|mobile-accessories|GadgetMaster|3.55|True
 T012|2024-12-21|P108|External Hard Drive|6|4332.0|C012|East|mobile-accessories|Apple|3.62|True
+T044|2024-12-09|P103|Keyboard|8|1823.0|C028|North|mobile-accessories|Apple|4.62|True
 T025|2024-12-14|P105|Webcam|3|3858.0|C001|East|mobile-accessories|Apple|3.62|True
+T027|2024-12-27|P105|Webcam|9|4494.0|C007|South|mobile-accessories|Apple|3.62|True
+T013|2024-12-22|P104|Monitor|5|10339.0|C020|South|mobile-accessories|Apple|4.15|True
+T038|2024-12-03|P106|Headphones|9|2949.0|C009|West|mobile-accessories|Apple|2.74|True
+T053|2024-12-13|P104|Monitor LED|2|16067.0|C019|North|mobile-accessories|Apple|4.15|True
+T041|2024-12-14|P106|Headphones|7|4825.0|C028|North|mobile-accessories|Apple|2.74|True
+T056|2024-12-22|P103|Keyboard Mechanical|5|2672.0|C011|North|mobile-accessories|Apple|4.62|True
+T047|2024-12-07|P108|External Hard Drive 1TB|7|3480.0|C006|West|mobile-accessories|Apple|3.62|True
