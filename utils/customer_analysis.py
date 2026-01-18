@@ -14,7 +14,7 @@ def customer_analysis(transactions):
                 'avg_order_value': 31666.67,
                 'products_bought': ['Laptop', 'Mouse', 'Keyboard']
             },
-            ...
+            ....
         }
 
     Requirements:
