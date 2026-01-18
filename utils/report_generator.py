@@ -23,7 +23,7 @@ def generate_sales_report(transactions, enriched_transactions, output_file="outp
     8. API ENRICHMENT SUMMARY
     """
 
-    # Ensure output directory exists
+    # Ensure output directory exists at run
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
 
     # HEADER
