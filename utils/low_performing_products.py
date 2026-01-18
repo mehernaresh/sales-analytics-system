@@ -10,7 +10,7 @@ def low_performing_products(transactions, threshold=10):
         list of tuples in format:
         [
             (ProductName, TotalQuantity, TotalRevenue),
-            ...
+            ....
         ]
 
     Requirements:
