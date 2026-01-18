@@ -30,6 +30,7 @@ def fetch_all_products():
     - Handle connection errors with try-except
     - Return empty list if API fails
     - Print status message (success/failure)
+    - Increased limit from 100 to 120 to ensure product ID match
     """
     try:
         response = requests.get(f"{BASE_URL}?limit=120")
